@@ -1,6 +1,6 @@
 <h1 align="center">Bootcamp Analista de QA</h1>
 
-<img src=LogoTripleten.png align="center" />
+<img src=imagens\LogoTripleten.png align="center" />
 
 <h3>Sprint 1 - Noções Básicas de Teste</h3>
 
